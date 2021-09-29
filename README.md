@@ -2,6 +2,7 @@
 run code using python 3 compiler
 
 ## Blackjack game explained:
+```
 player given two cards and computer given two cards, one revealed later
 player starts, player sees cards value and asked if he wants to hit or stay 
 player acts and is given a card that is added to his set 
@@ -14,4 +15,4 @@ class used to store the possible deck of cards and distribute
 class used to store the hand of the player and take a card from the deck class
 class to process all computation with a function for the player and the computer. 
 this is excluding the while loop in main where the user input is prompted
-
+```
