@@ -16,3 +16,9 @@ class used to store the hand of the player and take a card from the deck class
 class to process all computation with a function for the player and the computer. 
 this is excluding the while loop in main where the user input is prompted
 ```
+## Usage:
+```
+Game controls are communicated through commandline text
+Player will play against a Computer
+```
+
